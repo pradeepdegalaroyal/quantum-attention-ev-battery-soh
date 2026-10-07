@@ -1,0 +1,37 @@
+Copyright (c) 2026 Degala Chenchupradeep, SRM University-AP. All rights reserved.
+
+Research Reproducibility License
+
+This repository accompanies the manuscript "Quantum Recurrent Attention for
+Causal Electric-Vehicle Battery State-of-Health Prognosis: A Parameter-Matched,
+Hardware-Aware Evaluation", submitted to the IEEE Open Journal of
+Vehicular Technology.
+
+1. Permitted use. Any person may view, download and run this software, the
+   trained models and the result files solely to review, verify or reproduce
+   the results reported in the manuscript named above.
+
+2. Restrictions. Without prior written permission from the copyright holder,
+   no person may:
+   (a) modify the software or create derivative works for any other purpose;
+   (b) redistribute, sublicense or publish the software, the trained models or
+       the result files, in whole or in part;
+   (c) use the software, the trained models or the result files in any other
+       research, publication, product or service;
+   (d) use the software for any commercial purpose.
+
+3. Citation. Any permitted use that leads to a public statement, report or
+   publication must cite the manuscript named above (see CITATION.cff).
+
+4. Third-party data. The file data/processed/baticm_monthly.pkl is derived from the
+   BatICM dataset (Deng et al., Applied Energy 339, 120954, 2023), which is
+   distributed under the MIT License, Copyright (c) 2023 Michael Teng. That
+   notice and permission apply to the underlying data. The NASA and Oxford
+   datasets are not redistributed here; obtain them from their original
+   sources.
+
+5. No warranty. The software is provided "as is", without warranty of any
+   kind. In no event shall the copyright holder be liable for any claim,
+   damages or other liability arising from its use.
+
+Requests for permissions beyond Section 1: chenchupradeep_d@srmap.edu.in

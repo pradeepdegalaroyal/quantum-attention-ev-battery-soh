@@ -1,0 +1,6 @@
+A,B,n_veh,mean_gain_pp,A_better_on,p_two_sided
+MQAttn-LSTM-VQR,MQAttn-LSTM-VQR classical twin,8,-0.02122836,3,0.546875
+MQAttn-QLSTM-VQR,MQAttn-QLSTM-VQR classical twin,8,-0.021500802,6,0.7421875
+MQAttn-LSTM-VQR,LSTM,8,0.067339286,5,0.3828125
+MQAttn-LSTM-VQR,Persistence,8,1.1428424,8,0.0078125
+MQAttn-LSTM-VQR,Seq2Seq,8,-0.03321806,3,0.7421875

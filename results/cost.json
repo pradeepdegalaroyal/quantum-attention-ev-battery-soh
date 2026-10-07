@@ -1,0 +1,40 @@
+{
+  "numpy_vs_pennylane_max_abs_diff": 8.697447895222865e-08,
+  "flops_per_circuit": 3280,
+  "models": {
+    "Seq2Seq": {
+      "params": 33345,
+      "weight_kB_fp32": 130.25390625,
+      "flops_per_prediction": 179136,
+      "circuits_per_prediction": 0
+    },
+    "LSTM": {
+      "params": 981,
+      "weight_kB_fp32": 3.83203125,
+      "flops_per_prediction": 10790,
+      "circuits_per_prediction": 0
+    },
+    "QLSTM": {
+      "params": 545,
+      "weight_kB_fp32": 2.12890625,
+      "flops_per_prediction": 84080,
+      "circuits_per_prediction": 24
+    },
+    "MQAttn-QLSTM-VQR": {
+      "params": 988,
+      "weight_kB_fp32": 3.859375,
+      "flops_per_prediction": 148576,
+      "circuits_per_prediction": 43
+    },
+    "MQAttn-LSTM-VQR": {
+      "params": 956,
+      "weight_kB_fp32": 3.734375,
+      "flops_per_prediction": 71336,
+      "circuits_per_prediction": 19
+    }
+  },
+  "parameter_shift": {
+    "variational_parameters": 192,
+    "circuit_evaluations_per_window_and_step": 2064
+  }
+}

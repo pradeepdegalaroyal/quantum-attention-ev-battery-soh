@@ -1,0 +1,13 @@
+fold,training,condition,MAE,persistence
+6,simulator gradients,no noise,0.0030747971031814,0.004911548923701
+6,simulator gradients,4096 shots,0.0030617520678788,0.004911548923701
+6,simulator gradients,1024 shots,0.0031156511977314,0.004911548923701
+6,simulator gradients,256 shots,0.0030806614086031,0.004911548923701
+6,simulator gradients,depolarising p2=1e-3,0.0030726846307516,0.004911548923701
+6,simulator gradients,depolarising p2=1e-2,0.0030920088756829,0.004911548923701
+6,simulator gradients,depolarising p2=3e-2,0.0032086856663227,0.004911548923701
+6,simulator gradients,depolarising p2=1e-1,0.0034830307122319,0.004911548923701
+6,simulator gradients,"preset noise, 4096 shots",0.0030873278155922,0.004911548923701
+6,simulator gradients,"preset noise, 4096 shots, readout correction",0.0030596202705055,0.004911548923701
+6,"parameter shift, 1024 shots",1024 shots,0.0029158489778637,0.004911548923701
+6,"parameter shift, 1024 shots",no noise,0.0029178205877542,0.004911548923701

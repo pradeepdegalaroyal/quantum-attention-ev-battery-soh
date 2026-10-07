@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or refer to this material, please cite the manuscript below."
+title: "Quantum Recurrent Attention for Causal Electric-Vehicle Battery State-of-Health Prognosis: A Parameter-Matched, Hardware-Aware Evaluation (code and results)"
+authors:
+  - family-names: "Chenchupradeep"
+    given-names: "Degala"
+    affiliation: "SRM University-AP, Andhra Pradesh, India"
+    orcid: "https://orcid.org/0009-0003-6959-6295"
+version: "1.0"
+date-released: "2026-10-07"
+repository-code: "https://github.com/pradeepdegalaroyal/quantum-attention-ev-battery-soh"
+license-url: "https://github.com/pradeepdegalaroyal/quantum-attention-ev-battery-soh/blob/main/LICENSE"
+preferred-citation:
+  type: article
+  title: "Quantum Recurrent Attention for Causal Electric-Vehicle Battery State-of-Health Prognosis: A Parameter-Matched, Hardware-Aware Evaluation"
+  authors:
+    - family-names: "Chenchupradeep"
+      given-names: "Degala"
+  journal: "IEEE Open Journal of Vehicular Technology"
+  notes: "Under review."
