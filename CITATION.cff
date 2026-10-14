@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, the trained models or the results, please cite this software."
+type: software
+title: "MQAttn-QLSTM-VQR: code, data, trained models and results for causal electric-vehicle battery state-of-health prognosis"
+authors:
+  - family-names: "Chenchupradeep"
+    given-names: "Degala"
+    affiliation: "SRM University-AP, Andhra Pradesh, India"
+    orcid: "https://orcid.org/0009-0003-6959-6295"
+version: "1.0"
+date-released: "2026-10-14"
+repository-code: "https://github.com/pradeepdegalaroyal/quantum-attention-ev-battery-soh"
+url: "https://github.com/pradeepdegalaroyal/quantum-attention-ev-battery-soh"
+license-url: "https://github.com/pradeepdegalaroyal/quantum-attention-ev-battery-soh/blob/main/LICENSE"
+keywords:
+  - battery management system
+  - state of health
+  - electric vehicle
+  - quantum machine learning
+  - variational quantum circuit
